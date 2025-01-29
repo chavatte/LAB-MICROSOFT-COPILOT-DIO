@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Validador de Cartão de Crédito</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>Validador de Cartão de Crédito</h2>
+      <p>
+        Insira o número do cartão de crédito abaixo para validar se é um número
+        válido e identificar a bandeira do cartão.
+      </p>
+      <label for="cardNumber">Número do Cartão:</label>
+      <input
+        type="text"
+        id="cardNumber"
+        placeholder="Digite o número do cartão"
+      />
+      <button onclick="validarCartao()">Validar</button>
+      <div id="result" class="result" style="display: none"></div>
+      <div class="alert">
+        <p>
+          <strong>Atenção:</strong> Os números de cartões gerados pelo site
+          abaixo são inválidos e servem apenas para testes:
+        </p>
+        <p>
+          <a
+            href="https://www.4devs.com.br/gerador_de_numero_cartao_credito"
+            target="_blank"
+            >Gerador de Números de Cartão de Crédito para Teste</a
+          >
+        </p>
+      </div>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>
