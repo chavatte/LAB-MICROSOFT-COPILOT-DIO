@@ -19,7 +19,7 @@ Este projeto demonstra como usar o GitHub Copilot para criar um validador de ban
 
 ### Interface HTML
 
-1. Abra o arquivo `HTML/index.html` no seu navegador.
+1. Abra o arquivo `HTML/index.html` no seu navegador, ou se preferir, [clique aqui para ver online](https://chavatte.github.io/LAB-MICROSOFT-COPILOT-DIO/projects/LAB-01/HTML/)
 2. Insira o número do cartão de crédito no campo de entrada.
 3. Clique no botão "Validar".
 4. O resultado da validação e a bandeira do cartão serão exibidos na tela.
