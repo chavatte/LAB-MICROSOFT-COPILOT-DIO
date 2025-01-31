@@ -18,7 +18,7 @@ _____________,'      ,',_____|      |    | |              \ |      chavatte@duck
              |   ,','    ____|_____/    /  |                |    ________________________________________|___
              | ,','  __/ |             /   |                |  /                                            /
 _____________|','   ///_/-------------/   |                 \_/____________________________________________/ 
-              |===========,'                                                                              
+              |===========,'                                                                            
 			  
 
 </pre>
@@ -49,4 +49,4 @@ O Bootcamp aborda os seguintes tópicos:
 
 ## Certificado de conclusão
 
- 🎓 [Bootcamp Microsoft AI for Tech - GitHub Copilot]()
+ 🎓 [Bootcamp Microsoft AI for Tech - GitHub Copilot](https://www.dio.me/certificate/5JR9UHQQ)
